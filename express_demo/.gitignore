@@ -1,0 +1,11 @@
+# Ignore config directory
+/config
+
+# Ignore node_modules directory
+/node_modules
+
+# Ignore public directory
+/public
+
+# Ignore routes directory
+/routes
