@@ -20,7 +20,7 @@ function getUser(id, callback) {
 
 function getRepos(username, callback) {
   setTimeout(() => {
-    console.log("Reading repos from Database");
+    console.log("Reading repos from database");
     callback(["repo1", "repo2", "repo3"]);
   }, 2000);
 }
