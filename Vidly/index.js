@@ -1,15 +1,12 @@
-const Express = require("express");
 const Joi = require("joi");
+const genres = require("./routes/genres");
+const home = require("./routes/home");
+const express = require("express");
+const app = express();
 
-const app = Express();
-const genres = ["action", "romance", "comedy", "adventure"];
+app.use(express.json());
+app.use("/api/genres", genres);
+app.use("/", home);
 
-app.get("/api/genres/", (req, res, next) => {
-  res.send(genres);
-  next();
-});
-
-const port = 3000;
-app.listen(port, () => {
-  console.log(`Listening on port ${port}`);
-});
+const port = process.env.PORT || 3000;
+app.listen(port, () => console.log(`Server is listening on port: ${port}`));
