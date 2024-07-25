@@ -2,8 +2,11 @@ const { Rental, validate } = require("../models/rental");
 const { Movie } = require("../models/movie");
 const { Customer } = require("../models/customer");
 const mongoose = require("mongoose");
+const Fawn = require("fawn");
 const express = require("express");
 const router = express.Router();
+
+Fawn.init("mongodb://localhost/Vidly");
 
 router.get("/", async (req, res) => {
   const rentals = await Rental.find().sort("-dateOut");
@@ -35,11 +38,16 @@ router.post("/", async (req, res) => {
       dailyRentalRate: movie.dailyRentalRate,
     },
   });
-  rental = await rental.save();
-
-  movie.numberInStock--;
-  movie.save();
-  res.send(rental);
+  try {
+    const task = new Fawn.Task();
+    await task
+      .update("movies", { _id: movie._id }, { $inc: { numberInStock: 11 } })
+      .save("rentals", rental)
+      .run();
+    res.send(rental);
+  } catch (err) {
+    console.log(err);
+  }
 });
 
 module.exports = router;
