@@ -4,21 +4,21 @@ const router = express.Router();
 const _ = require("lodash");
 const auth = require("../middleware/auth");
 const bcrypt = require("bcrypt");
-router.get("/", async (_, res) => {
+router.get("/", async (_, res, next) => {
   try {
     const users = await User.find().sort("name");
     res.send(users);
   } catch (ex) {
-    res.status(500).send("Something Failed");
+    next(ex);
   }
 });
 
-router.get("/:me", auth, async (req, res) => {
+router.get("/:me", auth, async (req, res, next) => {
   try {
     const user = await User.findById(req.user._id).select("-password");
     res.send(user);
   } catch (ex) {
-    res.status(500).send("Something Failed");
+    next(ex);
   }
 });
 router.post("/", async (req, res) => {
