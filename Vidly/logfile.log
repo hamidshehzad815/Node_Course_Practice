@@ -1,1 +1,2124 @@
 {"level":"info","message":"Server is listening on port 3000...","timestamp":"2024-07-28T07:28:51.319Z"}
+{"level":"info","message":"Server is listening on port 3000..."}
+{"level":"info","message":"Connectd to MongoDB.."}
+{"level":"info","message":"Server is listening on port 3000..."}
+{"level":"info","message":"Connectd to MongoDB.."}
+{"level":"info","message":"Server is listening on port 3000..."}
+{"level":"info","message":"Connectd to MongoDB.."}
+{"level":"info","message":"Server is listening on port 3000..."}
+{"level":"info","message":"Connectd to MongoDB.."}
+{"level":"info","message":"Server is listening on port 3000..."}
+{"level":"info","message":"Server is listening on port 3000..."}
+{"level":"info","message":"Server is listening on port 3000..."}
+{"level":"info","message":"Server is listening on port 3000..."}
+{"level":"info","message":"Server is listening on port 3000..."}
+{"level":"info","message":"Server is listening on port 3000..."}
+{"level":"info","message":"Server is listening on port 3000..."}
+{"level":"info","message":"Server is listening on port 3000..."}
+{"level":"info","message":"Server is listening on port 3000..."}
+{"level":"info","message":"Server is listening on port 3000..."}
+{"level":"info","message":"Connectd to MongoDB.."}
+{"level":"info","message":"Server is listening on port 3000..."}
+{"level":"info","message":"Connectd to MongoDB.."}
+{"level":"info","message":"Server is listening on port 3000..."}
+{"level":"info","message":"Connectd to MongoDB.."}
+{"level":"info","message":"Server is listening on port 3000..."}
+{"level":"info","message":"Connectd to MongoDB.."}
+{"level":"info","message":"Server is listening on port 3000..."}
+{"level":"info","message":"Connectd to MongoDB.."}
+{"level":"info","message":"Server is listening on port 3000..."}
+{"level":"info","message":"Connectd to MongoDB.."}
+{"level":"info","message":"Server is listening on port 3000..."}
+{"level":"info","message":"Connectd to MongoDB.."}
+{"level":"info","message":"Server is listening on port 3000..."}
+{"level":"info","message":"Connectd to mongodb://localhost/Vidly.."}
+{"level":"info","message":"Server is listening on port 3000..."}
+{"level":"info","message":"Connectd to mongodb://localhost/Vidly.."}
+{"level":"info","message":"Server is listening on port 3000..."}
+{"level":"info","message":"Connectd to mongodb://localhost/Vidly.."}
+{"level":"info","message":"Server is listening on port 3000..."}
+{"level":"info","message":"Connectd to mongodb://localhost/Vidly.."}
+{"level":"info","message":"Server is listening on port 3000..."}
+{"level":"info","message":"Server is listening on port 3000..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly..."}
+{"level":"info","message":"Server is listening on port 3000..."}
+{"level":"info","message":"Connectd to mongodb://localhost/Vidly.."}
+{"level":"info","message":"Server is listening on port 3000..."}
+{"level":"info","message":"Server is listening on port 3000..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly..."}
+{"level":"info","message":"Server is listening on port 3000..."}
+{"level":"info","message":"Server is listening on port 3000..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly..."}
+{"level":"info","message":"Server is listening on port 3000..."}
+{"level":"info","message":"Connectd to mongodb://localhost/Vidly.."}
+{"level":"info","message":"Server is listening on port 3000..."}
+{"level":"info","message":"Server is listening on port 3000..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly..."}
+{"level":"info","message":"Server is listening on port 3000..."}
+{"level":"info","message":"Server is listening on port 3000..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly..."}
+{"level":"info","message":"Server is listening on port 3000..."}
+{"level":"info","message":"Server is listening on port 3000..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly..."}
+{"level":"info","message":"Server is listening on port 3000..."}
+{"level":"info","message":"Server is listening on port 3000..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Server is listening on port 3000..."}
+{"level":"info","message":"Server is listening on port 3000..."}
+{"level":"info","message":"Server is listening on port 3000..."}
+{"level":"info","message":"Server is listening on port 3000..."}
+{"level":"info","message":"Server is listening on port 3000..."}
+{"level":"info","message":"Server is listening on port 3000..."}
+{"level":"info","message":"Server is listening on port 3000..."}
+{"level":"info","message":"Server is listening on port 3000..."}
+{"level":"error","message":"Operation `genres.find()` buffering timed out after 10000ms Operation `genres.find()` buffering timed out after 10000ms","stack":"MongooseError: Operation `genres.find()` buffering timed out after 10000ms\n    at Timeout.<anonymous> (/Users/hamidshehzad/JS_Mosh/JavaScriptVS/noodeVS/Vidly/node_modules/mongoose/lib/drivers/node-mongodb-native/collection.js:185:23)\n    at listOnTimeout (node:internal/timers:573:17)\n    at processTimers (node:internal/timers:514:7)"}
+{"level":"error","message":"Operation `genres.find()` buffering timed out after 10000ms Operation `genres.find()` buffering timed out after 10000ms","stack":"MongooseError: Operation `genres.find()` buffering timed out after 10000ms\n    at Timeout.<anonymous> (/Users/hamidshehzad/JS_Mosh/JavaScriptVS/noodeVS/Vidly/node_modules/mongoose/lib/drivers/node-mongodb-native/collection.js:185:23)\n    at listOnTimeout (node:internal/timers:573:17)\n    at processTimers (node:internal/timers:514:7)"}
+{"level":"info","message":"Server is listening on port 3000..."}
+{"level":"info","message":"Server is listening on port 3000..."}
+{"level":"info","message":"Server is listening on port 3000..."}
+{"level":"info","message":"Server is listening on port 3000..."}
+{"level":"error","message":"Operation `genres.find()` buffering timed out after 10000ms Operation `genres.find()` buffering timed out after 10000ms","stack":"MongooseError: Operation `genres.find()` buffering timed out after 10000ms\n    at Timeout.<anonymous> (/Users/hamidshehzad/JS_Mosh/JavaScriptVS/noodeVS/Vidly/node_modules/mongoose/lib/drivers/node-mongodb-native/collection.js:185:23)\n    at listOnTimeout (node:internal/timers:573:17)\n    at processTimers (node:internal/timers:514:7)"}
+{"level":"error","message":"Operation `genres.find()` buffering timed out after 10000ms Operation `genres.find()` buffering timed out after 10000ms","stack":"MongooseError: Operation `genres.find()` buffering timed out after 10000ms\n    at Timeout.<anonymous> (/Users/hamidshehzad/JS_Mosh/JavaScriptVS/noodeVS/Vidly/node_modules/mongoose/lib/drivers/node-mongodb-native/collection.js:185:23)\n    at listOnTimeout (node:internal/timers:573:17)\n    at processTimers (node:internal/timers:514:7)"}
+{"level":"info","message":"Server is listening on port 3000..."}
+{"level":"info","message":"Server is listening on port 3000..."}
+{"level":"info","message":"Server is listening on port 3000..."}
+{"level":"info","message":"Server is listening on port 3000..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Server is listening on port 3000..."}
+{"level":"info","message":"Server is listening on port 3000..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Server is listening on port 3000..."}
+{"level":"info","message":"Server is listening on port 3000..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly..."}
+{"level":"info","message":"Server is listening on port 3000..."}
+{"level":"info","message":"Server is listening on port 3000..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly..."}
+{"level":"info","message":"Server is listening on port 3000..."}
+{"level":"info","message":"Server is listening on port 3000..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly..."}
+{"level":"info","message":"Server is listening on port 3000..."}
+{"level":"info","message":"Server is listening on port 3000..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly..."}
+{"level":"info","message":"Server is listening on port 3000..."}
+{"level":"info","message":"Server is listening on port 3000..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly..."}
+{"level":"info","message":"Server is listening on port 3000..."}
+{"level":"info","message":"Server is listening on port 3000..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Server is listening on port 3000..."}
+{"level":"info","message":"Server is listening on port 3000..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Server is listening on port 3000..."}
+{"level":"info","message":"Server is listening on port 3000..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Server is listening on port 3000..."}
+{"level":"info","message":"Server is listening on port 3000..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Server is listening on port 3000..."}
+{"level":"info","message":"Server is listening on port 3000..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Server is listening on port 3000..."}
+{"level":"info","message":"Server is listening on port 3000..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Server is listening on port 3000..."}
+{"level":"info","message":"Server is listening on port 3000..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Server is listening on port 3000..."}
+{"level":"info","message":"Server is listening on port 3000..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Server is listening on port 3000..."}
+{"level":"info","message":"Server is listening on port 3000..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Server is listening on port 3000..."}
+{"level":"info","message":"Server is listening on port 3000..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Server is listening on port 3000..."}
+{"level":"info","message":"Server is listening on port 3000..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Server is listening on port 3000..."}
+{"level":"info","message":"Server is listening on port 3000..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Server is listening on port 3000..."}
+{"level":"info","message":"Server is listening on port 3000..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Server is listening on port 3000..."}
+{"level":"info","message":"Server is listening on port 3000..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Server is listening on port 3000..."}
+{"level":"info","message":"Server is listening on port 3000..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Server is listening on port 3000..."}
+{"level":"info","message":"Server is listening on port 3000..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Server is listening on port 3000..."}
+{"level":"info","message":"Server is listening on port 3000..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Server is listening on port 3000..."}
+{"level":"info","message":"Server is listening on port 3000..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Server is listening on port 3000..."}
+{"level":"info","message":"Server is listening on port 3000..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Server is listening on port 3000..."}
+{"level":"info","message":"Server is listening on port 3000..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Server is listening on port 3000..."}
+{"level":"info","message":"Server is listening on port 3000..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Server is listening on port 3000..."}
+{"level":"info","message":"Server is listening on port 3000..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Server is listening on port 3000..."}
+{"level":"info","message":"Server is listening on port 3000..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Server is listening on port 3000..."}
+{"level":"info","message":"Server is listening on port 3000..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Server is listening on port 3000..."}
+{"level":"info","message":"Server is listening on port 3000..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Server is listening on port 3000..."}
+{"level":"info","message":"Server is listening on port 3000..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"error","message":"req is not defined req is not defined","stack":"ReferenceError: req is not defined\n    at req (/Users/hamidshehzad/JS_Mosh/JavaScriptVS/noodeVS/Vidly/middleware/validateObjectId.js:3:40)\n    at Layer.handle [as handle_request] (/Users/hamidshehzad/JS_Mosh/JavaScriptVS/noodeVS/Vidly/node_modules/express/lib/router/layer.js:95:5)\n    at next (/Users/hamidshehzad/JS_Mosh/JavaScriptVS/noodeVS/Vidly/node_modules/express/lib/router/route.js:149:13)\n    at Route.dispatch (/Users/hamidshehzad/JS_Mosh/JavaScriptVS/noodeVS/Vidly/node_modules/express/lib/router/route.js:119:3)\n    at Layer.handle [as handle_request] (/Users/hamidshehzad/JS_Mosh/JavaScriptVS/noodeVS/Vidly/node_modules/express/lib/router/layer.js:95:5)\n    at /Users/hamidshehzad/JS_Mosh/JavaScriptVS/noodeVS/Vidly/node_modules/express/lib/router/index.js:284:15\n    at param (/Users/hamidshehzad/JS_Mosh/JavaScriptVS/noodeVS/Vidly/node_modules/express/lib/router/index.js:365:14)\n    at param (/Users/hamidshehzad/JS_Mosh/JavaScriptVS/noodeVS/Vidly/node_modules/express/lib/router/index.js:376:14)\n    at Function.process_params (/Users/hamidshehzad/JS_Mosh/JavaScriptVS/noodeVS/Vidly/node_modules/express/lib/router/index.js:421:3)\n    at next (/Users/hamidshehzad/JS_Mosh/JavaScriptVS/noodeVS/Vidly/node_modules/express/lib/router/index.js:280:10)\n    at Function.handle (/Users/hamidshehzad/JS_Mosh/JavaScriptVS/noodeVS/Vidly/node_modules/express/lib/router/index.js:175:3)\n    at router (/Users/hamidshehzad/JS_Mosh/JavaScriptVS/noodeVS/Vidly/node_modules/express/lib/router/index.js:47:12)\n    at Layer.handle [as handle_request] (/Users/hamidshehzad/JS_Mosh/JavaScriptVS/noodeVS/Vidly/node_modules/express/lib/router/layer.js:95:5)\n    at trim_prefix (/Users/hamidshehzad/JS_Mosh/JavaScriptVS/noodeVS/Vidly/node_modules/express/lib/router/index.js:328:13)\n    at /Users/hamidshehzad/JS_Mosh/JavaScriptVS/noodeVS/Vidly/node_modules/express/lib/router/index.js:286:9\n    at Function.process_params (/Users/hamidshehzad/JS_Mosh/JavaScriptVS/noodeVS/Vidly/node_modules/express/lib/router/index.js:346:12)\n    at next (/Users/hamidshehzad/JS_Mosh/JavaScriptVS/noodeVS/Vidly/node_modules/express/lib/router/index.js:280:10)\n    at jsonParser (/Users/hamidshehzad/JS_Mosh/JavaScriptVS/noodeVS/Vidly/node_modules/body-parser/lib/types/json.js:113:7)\n    at Layer.handle [as handle_request] (/Users/hamidshehzad/JS_Mosh/JavaScriptVS/noodeVS/Vidly/node_modules/express/lib/router/layer.js:95:5)\n    at trim_prefix (/Users/hamidshehzad/JS_Mosh/JavaScriptVS/noodeVS/Vidly/node_modules/express/lib/router/index.js:328:13)\n    at /Users/hamidshehzad/JS_Mosh/JavaScriptVS/noodeVS/Vidly/node_modules/express/lib/router/index.js:286:9\n    at Function.process_params (/Users/hamidshehzad/JS_Mosh/JavaScriptVS/noodeVS/Vidly/node_modules/express/lib/router/index.js:346:12)\n    at next (/Users/hamidshehzad/JS_Mosh/JavaScriptVS/noodeVS/Vidly/node_modules/express/lib/router/index.js:280:10)\n    at expressInit (/Users/hamidshehzad/JS_Mosh/JavaScriptVS/noodeVS/Vidly/node_modules/express/lib/middleware/init.js:40:5)\n    at Layer.handle [as handle_request] (/Users/hamidshehzad/JS_Mosh/JavaScriptVS/noodeVS/Vidly/node_modules/express/lib/router/layer.js:95:5)\n    at trim_prefix (/Users/hamidshehzad/JS_Mosh/JavaScriptVS/noodeVS/Vidly/node_modules/express/lib/router/index.js:328:13)\n    at /Users/hamidshehzad/JS_Mosh/JavaScriptVS/noodeVS/Vidly/node_modules/express/lib/router/index.js:286:9\n    at Function.process_params (/Users/hamidshehzad/JS_Mosh/JavaScriptVS/noodeVS/Vidly/node_modules/express/lib/router/index.js:346:12)\n    at next (/Users/hamidshehzad/JS_Mosh/JavaScriptVS/noodeVS/Vidly/node_modules/express/lib/router/index.js:280:10)\n    at query (/Users/hamidshehzad/JS_Mosh/JavaScriptVS/noodeVS/Vidly/node_modules/express/lib/middleware/query.js:45:5)\n    at Layer.handle [as handle_request] (/Users/hamidshehzad/JS_Mosh/JavaScriptVS/noodeVS/Vidly/node_modules/express/lib/router/layer.js:95:5)\n    at trim_prefix (/Users/hamidshehzad/JS_Mosh/JavaScriptVS/noodeVS/Vidly/node_modules/express/lib/router/index.js:328:13)\n    at /Users/hamidshehzad/JS_Mosh/JavaScriptVS/noodeVS/Vidly/node_modules/express/lib/router/index.js:286:9\n    at Function.process_params (/Users/hamidshehzad/JS_Mosh/JavaScriptVS/noodeVS/Vidly/node_modules/express/lib/router/index.js:346:12)\n    at next (/Users/hamidshehzad/JS_Mosh/JavaScriptVS/noodeVS/Vidly/node_modules/express/lib/router/index.js:280:10)\n    at Function.handle (/Users/hamidshehzad/JS_Mosh/JavaScriptVS/noodeVS/Vidly/node_modules/express/lib/router/index.js:175:3)\n    at Function.handle (/Users/hamidshehzad/JS_Mosh/JavaScriptVS/noodeVS/Vidly/node_modules/express/lib/application.js:181:10)\n    at Server.app (/Users/hamidshehzad/JS_Mosh/JavaScriptVS/noodeVS/Vidly/node_modules/express/lib/express.js:39:9)\n    at Server.emit (node:events:519:28)\n    at parserOnIncoming (node:_http_server:1140:12)\n    at HTTPParser.parserOnHeadersComplete (node:_http_common:119:17)"}
+{"level":"error","message":"req is not defined req is not defined","stack":"ReferenceError: req is not defined\n    at req (/Users/hamidshehzad/JS_Mosh/JavaScriptVS/noodeVS/Vidly/middleware/validateObjectId.js:3:40)\n    at Layer.handle [as handle_request] (/Users/hamidshehzad/JS_Mosh/JavaScriptVS/noodeVS/Vidly/node_modules/express/lib/router/layer.js:95:5)\n    at next (/Users/hamidshehzad/JS_Mosh/JavaScriptVS/noodeVS/Vidly/node_modules/express/lib/router/route.js:149:13)\n    at Route.dispatch (/Users/hamidshehzad/JS_Mosh/JavaScriptVS/noodeVS/Vidly/node_modules/express/lib/router/route.js:119:3)\n    at Layer.handle [as handle_request] (/Users/hamidshehzad/JS_Mosh/JavaScriptVS/noodeVS/Vidly/node_modules/express/lib/router/layer.js:95:5)\n    at /Users/hamidshehzad/JS_Mosh/JavaScriptVS/noodeVS/Vidly/node_modules/express/lib/router/index.js:284:15\n    at param (/Users/hamidshehzad/JS_Mosh/JavaScriptVS/noodeVS/Vidly/node_modules/express/lib/router/index.js:365:14)\n    at param (/Users/hamidshehzad/JS_Mosh/JavaScriptVS/noodeVS/Vidly/node_modules/express/lib/router/index.js:376:14)\n    at Function.process_params (/Users/hamidshehzad/JS_Mosh/JavaScriptVS/noodeVS/Vidly/node_modules/express/lib/router/index.js:421:3)\n    at next (/Users/hamidshehzad/JS_Mosh/JavaScriptVS/noodeVS/Vidly/node_modules/express/lib/router/index.js:280:10)\n    at Function.handle (/Users/hamidshehzad/JS_Mosh/JavaScriptVS/noodeVS/Vidly/node_modules/express/lib/router/index.js:175:3)\n    at router (/Users/hamidshehzad/JS_Mosh/JavaScriptVS/noodeVS/Vidly/node_modules/express/lib/router/index.js:47:12)\n    at Layer.handle [as handle_request] (/Users/hamidshehzad/JS_Mosh/JavaScriptVS/noodeVS/Vidly/node_modules/express/lib/router/layer.js:95:5)\n    at trim_prefix (/Users/hamidshehzad/JS_Mosh/JavaScriptVS/noodeVS/Vidly/node_modules/express/lib/router/index.js:328:13)\n    at /Users/hamidshehzad/JS_Mosh/JavaScriptVS/noodeVS/Vidly/node_modules/express/lib/router/index.js:286:9\n    at Function.process_params (/Users/hamidshehzad/JS_Mosh/JavaScriptVS/noodeVS/Vidly/node_modules/express/lib/router/index.js:346:12)\n    at next (/Users/hamidshehzad/JS_Mosh/JavaScriptVS/noodeVS/Vidly/node_modules/express/lib/router/index.js:280:10)\n    at jsonParser (/Users/hamidshehzad/JS_Mosh/JavaScriptVS/noodeVS/Vidly/node_modules/body-parser/lib/types/json.js:113:7)\n    at Layer.handle [as handle_request] (/Users/hamidshehzad/JS_Mosh/JavaScriptVS/noodeVS/Vidly/node_modules/express/lib/router/layer.js:95:5)\n    at trim_prefix (/Users/hamidshehzad/JS_Mosh/JavaScriptVS/noodeVS/Vidly/node_modules/express/lib/router/index.js:328:13)\n    at /Users/hamidshehzad/JS_Mosh/JavaScriptVS/noodeVS/Vidly/node_modules/express/lib/router/index.js:286:9\n    at Function.process_params (/Users/hamidshehzad/JS_Mosh/JavaScriptVS/noodeVS/Vidly/node_modules/express/lib/router/index.js:346:12)\n    at next (/Users/hamidshehzad/JS_Mosh/JavaScriptVS/noodeVS/Vidly/node_modules/express/lib/router/index.js:280:10)\n    at expressInit (/Users/hamidshehzad/JS_Mosh/JavaScriptVS/noodeVS/Vidly/node_modules/express/lib/middleware/init.js:40:5)\n    at Layer.handle [as handle_request] (/Users/hamidshehzad/JS_Mosh/JavaScriptVS/noodeVS/Vidly/node_modules/express/lib/router/layer.js:95:5)\n    at trim_prefix (/Users/hamidshehzad/JS_Mosh/JavaScriptVS/noodeVS/Vidly/node_modules/express/lib/router/index.js:328:13)\n    at /Users/hamidshehzad/JS_Mosh/JavaScriptVS/noodeVS/Vidly/node_modules/express/lib/router/index.js:286:9\n    at Function.process_params (/Users/hamidshehzad/JS_Mosh/JavaScriptVS/noodeVS/Vidly/node_modules/express/lib/router/index.js:346:12)\n    at next (/Users/hamidshehzad/JS_Mosh/JavaScriptVS/noodeVS/Vidly/node_modules/express/lib/router/index.js:280:10)\n    at query (/Users/hamidshehzad/JS_Mosh/JavaScriptVS/noodeVS/Vidly/node_modules/express/lib/middleware/query.js:45:5)\n    at Layer.handle [as handle_request] (/Users/hamidshehzad/JS_Mosh/JavaScriptVS/noodeVS/Vidly/node_modules/express/lib/router/layer.js:95:5)\n    at trim_prefix (/Users/hamidshehzad/JS_Mosh/JavaScriptVS/noodeVS/Vidly/node_modules/express/lib/router/index.js:328:13)\n    at /Users/hamidshehzad/JS_Mosh/JavaScriptVS/noodeVS/Vidly/node_modules/express/lib/router/index.js:286:9\n    at Function.process_params (/Users/hamidshehzad/JS_Mosh/JavaScriptVS/noodeVS/Vidly/node_modules/express/lib/router/index.js:346:12)\n    at next (/Users/hamidshehzad/JS_Mosh/JavaScriptVS/noodeVS/Vidly/node_modules/express/lib/router/index.js:280:10)\n    at Function.handle (/Users/hamidshehzad/JS_Mosh/JavaScriptVS/noodeVS/Vidly/node_modules/express/lib/router/index.js:175:3)\n    at Function.handle (/Users/hamidshehzad/JS_Mosh/JavaScriptVS/noodeVS/Vidly/node_modules/express/lib/application.js:181:10)\n    at Server.app (/Users/hamidshehzad/JS_Mosh/JavaScriptVS/noodeVS/Vidly/node_modules/express/lib/express.js:39:9)\n    at Server.emit (node:events:519:28)\n    at parserOnIncoming (node:_http_server:1140:12)\n    at HTTPParser.parserOnHeadersComplete (node:_http_common:119:17)"}
+{"level":"error","message":"req is not defined req is not defined","stack":"ReferenceError: req is not defined\n    at req (/Users/hamidshehzad/JS_Mosh/JavaScriptVS/noodeVS/Vidly/middleware/validateObjectId.js:3:40)\n    at Layer.handle [as handle_request] (/Users/hamidshehzad/JS_Mosh/JavaScriptVS/noodeVS/Vidly/node_modules/express/lib/router/layer.js:95:5)\n    at next (/Users/hamidshehzad/JS_Mosh/JavaScriptVS/noodeVS/Vidly/node_modules/express/lib/router/route.js:149:13)\n    at Route.dispatch (/Users/hamidshehzad/JS_Mosh/JavaScriptVS/noodeVS/Vidly/node_modules/express/lib/router/route.js:119:3)\n    at Layer.handle [as handle_request] (/Users/hamidshehzad/JS_Mosh/JavaScriptVS/noodeVS/Vidly/node_modules/express/lib/router/layer.js:95:5)\n    at /Users/hamidshehzad/JS_Mosh/JavaScriptVS/noodeVS/Vidly/node_modules/express/lib/router/index.js:284:15\n    at param (/Users/hamidshehzad/JS_Mosh/JavaScriptVS/noodeVS/Vidly/node_modules/express/lib/router/index.js:365:14)\n    at param (/Users/hamidshehzad/JS_Mosh/JavaScriptVS/noodeVS/Vidly/node_modules/express/lib/router/index.js:376:14)\n    at Function.process_params (/Users/hamidshehzad/JS_Mosh/JavaScriptVS/noodeVS/Vidly/node_modules/express/lib/router/index.js:421:3)\n    at next (/Users/hamidshehzad/JS_Mosh/JavaScriptVS/noodeVS/Vidly/node_modules/express/lib/router/index.js:280:10)\n    at Function.handle (/Users/hamidshehzad/JS_Mosh/JavaScriptVS/noodeVS/Vidly/node_modules/express/lib/router/index.js:175:3)\n    at router (/Users/hamidshehzad/JS_Mosh/JavaScriptVS/noodeVS/Vidly/node_modules/express/lib/router/index.js:47:12)\n    at Layer.handle [as handle_request] (/Users/hamidshehzad/JS_Mosh/JavaScriptVS/noodeVS/Vidly/node_modules/express/lib/router/layer.js:95:5)\n    at trim_prefix (/Users/hamidshehzad/JS_Mosh/JavaScriptVS/noodeVS/Vidly/node_modules/express/lib/router/index.js:328:13)\n    at /Users/hamidshehzad/JS_Mosh/JavaScriptVS/noodeVS/Vidly/node_modules/express/lib/router/index.js:286:9\n    at Function.process_params (/Users/hamidshehzad/JS_Mosh/JavaScriptVS/noodeVS/Vidly/node_modules/express/lib/router/index.js:346:12)\n    at next (/Users/hamidshehzad/JS_Mosh/JavaScriptVS/noodeVS/Vidly/node_modules/express/lib/router/index.js:280:10)\n    at jsonParser (/Users/hamidshehzad/JS_Mosh/JavaScriptVS/noodeVS/Vidly/node_modules/body-parser/lib/types/json.js:113:7)\n    at Layer.handle [as handle_request] (/Users/hamidshehzad/JS_Mosh/JavaScriptVS/noodeVS/Vidly/node_modules/express/lib/router/layer.js:95:5)\n    at trim_prefix (/Users/hamidshehzad/JS_Mosh/JavaScriptVS/noodeVS/Vidly/node_modules/express/lib/router/index.js:328:13)\n    at /Users/hamidshehzad/JS_Mosh/JavaScriptVS/noodeVS/Vidly/node_modules/express/lib/router/index.js:286:9\n    at Function.process_params (/Users/hamidshehzad/JS_Mosh/JavaScriptVS/noodeVS/Vidly/node_modules/express/lib/router/index.js:346:12)\n    at next (/Users/hamidshehzad/JS_Mosh/JavaScriptVS/noodeVS/Vidly/node_modules/express/lib/router/index.js:280:10)\n    at expressInit (/Users/hamidshehzad/JS_Mosh/JavaScriptVS/noodeVS/Vidly/node_modules/express/lib/middleware/init.js:40:5)\n    at Layer.handle [as handle_request] (/Users/hamidshehzad/JS_Mosh/JavaScriptVS/noodeVS/Vidly/node_modules/express/lib/router/layer.js:95:5)\n    at trim_prefix (/Users/hamidshehzad/JS_Mosh/JavaScriptVS/noodeVS/Vidly/node_modules/express/lib/router/index.js:328:13)\n    at /Users/hamidshehzad/JS_Mosh/JavaScriptVS/noodeVS/Vidly/node_modules/express/lib/router/index.js:286:9\n    at Function.process_params (/Users/hamidshehzad/JS_Mosh/JavaScriptVS/noodeVS/Vidly/node_modules/express/lib/router/index.js:346:12)\n    at next (/Users/hamidshehzad/JS_Mosh/JavaScriptVS/noodeVS/Vidly/node_modules/express/lib/router/index.js:280:10)\n    at query (/Users/hamidshehzad/JS_Mosh/JavaScriptVS/noodeVS/Vidly/node_modules/express/lib/middleware/query.js:45:5)\n    at Layer.handle [as handle_request] (/Users/hamidshehzad/JS_Mosh/JavaScriptVS/noodeVS/Vidly/node_modules/express/lib/router/layer.js:95:5)\n    at trim_prefix (/Users/hamidshehzad/JS_Mosh/JavaScriptVS/noodeVS/Vidly/node_modules/express/lib/router/index.js:328:13)\n    at /Users/hamidshehzad/JS_Mosh/JavaScriptVS/noodeVS/Vidly/node_modules/express/lib/router/index.js:286:9\n    at Function.process_params (/Users/hamidshehzad/JS_Mosh/JavaScriptVS/noodeVS/Vidly/node_modules/express/lib/router/index.js:346:12)\n    at next (/Users/hamidshehzad/JS_Mosh/JavaScriptVS/noodeVS/Vidly/node_modules/express/lib/router/index.js:280:10)\n    at Function.handle (/Users/hamidshehzad/JS_Mosh/JavaScriptVS/noodeVS/Vidly/node_modules/express/lib/router/index.js:175:3)\n    at Function.handle (/Users/hamidshehzad/JS_Mosh/JavaScriptVS/noodeVS/Vidly/node_modules/express/lib/application.js:181:10)\n    at Server.app (/Users/hamidshehzad/JS_Mosh/JavaScriptVS/noodeVS/Vidly/node_modules/express/lib/express.js:39:9)\n    at Server.emit (node:events:519:28)\n    at parserOnIncoming (node:_http_server:1140:12)\n    at HTTPParser.parserOnHeadersComplete (node:_http_common:119:17)"}
+{"level":"error","message":"req is not defined req is not defined","stack":"ReferenceError: req is not defined\n    at req (/Users/hamidshehzad/JS_Mosh/JavaScriptVS/noodeVS/Vidly/middleware/validateObjectId.js:3:40)\n    at Layer.handle [as handle_request] (/Users/hamidshehzad/JS_Mosh/JavaScriptVS/noodeVS/Vidly/node_modules/express/lib/router/layer.js:95:5)\n    at next (/Users/hamidshehzad/JS_Mosh/JavaScriptVS/noodeVS/Vidly/node_modules/express/lib/router/route.js:149:13)\n    at Route.dispatch (/Users/hamidshehzad/JS_Mosh/JavaScriptVS/noodeVS/Vidly/node_modules/express/lib/router/route.js:119:3)\n    at Layer.handle [as handle_request] (/Users/hamidshehzad/JS_Mosh/JavaScriptVS/noodeVS/Vidly/node_modules/express/lib/router/layer.js:95:5)\n    at /Users/hamidshehzad/JS_Mosh/JavaScriptVS/noodeVS/Vidly/node_modules/express/lib/router/index.js:284:15\n    at param (/Users/hamidshehzad/JS_Mosh/JavaScriptVS/noodeVS/Vidly/node_modules/express/lib/router/index.js:365:14)\n    at param (/Users/hamidshehzad/JS_Mosh/JavaScriptVS/noodeVS/Vidly/node_modules/express/lib/router/index.js:376:14)\n    at Function.process_params (/Users/hamidshehzad/JS_Mosh/JavaScriptVS/noodeVS/Vidly/node_modules/express/lib/router/index.js:421:3)\n    at next (/Users/hamidshehzad/JS_Mosh/JavaScriptVS/noodeVS/Vidly/node_modules/express/lib/router/index.js:280:10)\n    at Function.handle (/Users/hamidshehzad/JS_Mosh/JavaScriptVS/noodeVS/Vidly/node_modules/express/lib/router/index.js:175:3)\n    at router (/Users/hamidshehzad/JS_Mosh/JavaScriptVS/noodeVS/Vidly/node_modules/express/lib/router/index.js:47:12)\n    at Layer.handle [as handle_request] (/Users/hamidshehzad/JS_Mosh/JavaScriptVS/noodeVS/Vidly/node_modules/express/lib/router/layer.js:95:5)\n    at trim_prefix (/Users/hamidshehzad/JS_Mosh/JavaScriptVS/noodeVS/Vidly/node_modules/express/lib/router/index.js:328:13)\n    at /Users/hamidshehzad/JS_Mosh/JavaScriptVS/noodeVS/Vidly/node_modules/express/lib/router/index.js:286:9\n    at Function.process_params (/Users/hamidshehzad/JS_Mosh/JavaScriptVS/noodeVS/Vidly/node_modules/express/lib/router/index.js:346:12)\n    at next (/Users/hamidshehzad/JS_Mosh/JavaScriptVS/noodeVS/Vidly/node_modules/express/lib/router/index.js:280:10)\n    at jsonParser (/Users/hamidshehzad/JS_Mosh/JavaScriptVS/noodeVS/Vidly/node_modules/body-parser/lib/types/json.js:113:7)\n    at Layer.handle [as handle_request] (/Users/hamidshehzad/JS_Mosh/JavaScriptVS/noodeVS/Vidly/node_modules/express/lib/router/layer.js:95:5)\n    at trim_prefix (/Users/hamidshehzad/JS_Mosh/JavaScriptVS/noodeVS/Vidly/node_modules/express/lib/router/index.js:328:13)\n    at /Users/hamidshehzad/JS_Mosh/JavaScriptVS/noodeVS/Vidly/node_modules/express/lib/router/index.js:286:9\n    at Function.process_params (/Users/hamidshehzad/JS_Mosh/JavaScriptVS/noodeVS/Vidly/node_modules/express/lib/router/index.js:346:12)\n    at next (/Users/hamidshehzad/JS_Mosh/JavaScriptVS/noodeVS/Vidly/node_modules/express/lib/router/index.js:280:10)\n    at expressInit (/Users/hamidshehzad/JS_Mosh/JavaScriptVS/noodeVS/Vidly/node_modules/express/lib/middleware/init.js:40:5)\n    at Layer.handle [as handle_request] (/Users/hamidshehzad/JS_Mosh/JavaScriptVS/noodeVS/Vidly/node_modules/express/lib/router/layer.js:95:5)\n    at trim_prefix (/Users/hamidshehzad/JS_Mosh/JavaScriptVS/noodeVS/Vidly/node_modules/express/lib/router/index.js:328:13)\n    at /Users/hamidshehzad/JS_Mosh/JavaScriptVS/noodeVS/Vidly/node_modules/express/lib/router/index.js:286:9\n    at Function.process_params (/Users/hamidshehzad/JS_Mosh/JavaScriptVS/noodeVS/Vidly/node_modules/express/lib/router/index.js:346:12)\n    at next (/Users/hamidshehzad/JS_Mosh/JavaScriptVS/noodeVS/Vidly/node_modules/express/lib/router/index.js:280:10)\n    at query (/Users/hamidshehzad/JS_Mosh/JavaScriptVS/noodeVS/Vidly/node_modules/express/lib/middleware/query.js:45:5)\n    at Layer.handle [as handle_request] (/Users/hamidshehzad/JS_Mosh/JavaScriptVS/noodeVS/Vidly/node_modules/express/lib/router/layer.js:95:5)\n    at trim_prefix (/Users/hamidshehzad/JS_Mosh/JavaScriptVS/noodeVS/Vidly/node_modules/express/lib/router/index.js:328:13)\n    at /Users/hamidshehzad/JS_Mosh/JavaScriptVS/noodeVS/Vidly/node_modules/express/lib/router/index.js:286:9\n    at Function.process_params (/Users/hamidshehzad/JS_Mosh/JavaScriptVS/noodeVS/Vidly/node_modules/express/lib/router/index.js:346:12)\n    at next (/Users/hamidshehzad/JS_Mosh/JavaScriptVS/noodeVS/Vidly/node_modules/express/lib/router/index.js:280:10)\n    at Function.handle (/Users/hamidshehzad/JS_Mosh/JavaScriptVS/noodeVS/Vidly/node_modules/express/lib/router/index.js:175:3)\n    at Function.handle (/Users/hamidshehzad/JS_Mosh/JavaScriptVS/noodeVS/Vidly/node_modules/express/lib/application.js:181:10)\n    at Server.app (/Users/hamidshehzad/JS_Mosh/JavaScriptVS/noodeVS/Vidly/node_modules/express/lib/express.js:39:9)\n    at Server.emit (node:events:519:28)\n    at parserOnIncoming (node:_http_server:1140:12)\n    at HTTPParser.parserOnHeadersComplete (node:_http_common:119:17)"}
+{"level":"info","message":"Server is listening on port 3000..."}
+{"level":"info","message":"Server is listening on port 3000..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Server is listening on port 3000..."}
+{"level":"info","message":"Server is listening on port 3000..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Server is listening on port 3000..."}
+{"level":"info","message":"Server is listening on port 3000..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Server is listening on port 3000..."}
+{"level":"info","message":"Server is listening on port 3000..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Server is listening on port 3000..."}
+{"level":"info","message":"Server is listening on port 3000..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Server is listening on port 3000..."}
+{"level":"info","message":"Server is listening on port 3000..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Server is listening on port 3000..."}
+{"level":"info","message":"Server is listening on port 3000..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Server is listening on port 3000..."}
+{"level":"info","message":"Server is listening on port 3000..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Server is listening on port 3000..."}
+{"level":"info","message":"Server is listening on port 3000..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Server is listening on port 3000..."}
+{"level":"info","message":"Server is listening on port 3000..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Server is listening on port 3000..."}
+{"level":"info","message":"Server is listening on port 3000..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Server is listening on port 3000..."}
+{"level":"info","message":"Server is listening on port 3000..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Server is listening on port 3000..."}
+{"level":"info","message":"Server is listening on port 3000..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Server is listening on port 3000..."}
+{"level":"info","message":"Server is listening on port 3000..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Server is listening on port 3000..."}
+{"level":"info","message":"Server is listening on port 3000..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Server is listening on port 3000..."}
+{"level":"info","message":"Server is listening on port 3000..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Server is listening on port 3000..."}
+{"level":"info","message":"Server is listening on port 3000..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Server is listening on port 3000..."}
+{"level":"info","message":"Server is listening on port 3000..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Server is listening on port 3000..."}
+{"level":"info","message":"Server is listening on port 3000..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Server is listening on port 3000..."}
+{"level":"info","message":"Server is listening on port 3000..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Server is listening on port 3000..."}
+{"level":"info","message":"Server is listening on port 3000..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Server is listening on port 3000..."}
+{"level":"info","message":"Server is listening on port 3000..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"_message":"Genres validation failed","errors":{"name":{"kind":"minlength","message":"Path `name` (`1234`) is shorter than the minimum allowed length (5).","name":"ValidatorError","path":"name","properties":{"message":"Path `name` (`1234`) is shorter than the minimum allowed length (5).","minlength":5,"path":"name","type":"minlength","value":"1234"},"value":"1234"}},"level":"error","message":"Genres validation failed: name: Path `name` (`1234`) is shorter than the minimum allowed length (5). Genres validation failed: name: Path `name` (`1234`) is shorter than the minimum allowed length (5).","stack":"ValidationError: Genres validation failed: name: Path `name` (`1234`) is shorter than the minimum allowed length (5).\n    at model.Object.<anonymous>.Document.invalidate (/Users/hamidshehzad/JS_Mosh/JavaScriptVS/noodeVS/Vidly/node_modules/mongoose/lib/document.js:3318:32)\n    at /Users/hamidshehzad/JS_Mosh/JavaScriptVS/noodeVS/Vidly/node_modules/mongoose/lib/document.js:3079:17\n    at /Users/hamidshehzad/JS_Mosh/JavaScriptVS/noodeVS/Vidly/node_modules/mongoose/lib/schemaType.js:1388:9\n    at processTicksAndRejections (node:internal/process/task_queues:77:11)"}
+{"_message":"Genres validation failed","errors":{"name":{"kind":"minlength","message":"Path `name` (`1234`) is shorter than the minimum allowed length (5).","name":"ValidatorError","path":"name","properties":{"message":"Path `name` (`1234`) is shorter than the minimum allowed length (5).","minlength":5,"path":"name","type":"minlength","value":"1234"},"value":"1234"}},"level":"error","message":"Genres validation failed: name: Path `name` (`1234`) is shorter than the minimum allowed length (5). Genres validation failed: name: Path `name` (`1234`) is shorter than the minimum allowed length (5).","stack":"ValidationError: Genres validation failed: name: Path `name` (`1234`) is shorter than the minimum allowed length (5).\n    at model.Object.<anonymous>.Document.invalidate (/Users/hamidshehzad/JS_Mosh/JavaScriptVS/noodeVS/Vidly/node_modules/mongoose/lib/document.js:3318:32)\n    at /Users/hamidshehzad/JS_Mosh/JavaScriptVS/noodeVS/Vidly/node_modules/mongoose/lib/document.js:3079:17\n    at /Users/hamidshehzad/JS_Mosh/JavaScriptVS/noodeVS/Vidly/node_modules/mongoose/lib/schemaType.js:1388:9\n    at processTicksAndRejections (node:internal/process/task_queues:77:11)"}
+{"level":"info","message":"Server is listening on port 3000..."}
+{"level":"info","message":"Server is listening on port 3000..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Server is listening on port 3000..."}
+{"level":"info","message":"Server is listening on port 3000..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Server is listening on port 3000..."}
+{"level":"info","message":"Server is listening on port 3000..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Server is listening on port 3000..."}
+{"level":"info","message":"Server is listening on port 3000..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Server is listening on port 3000..."}
+{"level":"info","message":"Server is listening on port 3000..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Server is listening on port 3000..."}
+{"level":"info","message":"Server is listening on port 3000..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Server is listening on port 3000..."}
+{"level":"info","message":"Server is listening on port 3000..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Server is listening on port 3000..."}
+{"level":"info","message":"Server is listening on port 3000..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Server is listening on port 3000..."}
+{"level":"info","message":"Server is listening on port 3000..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Server is listening on port 3000..."}
+{"level":"info","message":"Server is listening on port 3000..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Server is listening on port 3000..."}
+{"level":"info","message":"Server is listening on port 3000..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Server is listening on port 3000..."}
+{"level":"info","message":"Server is listening on port 3000..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Server is listening on port 3000..."}
+{"level":"info","message":"Server is listening on port 3000..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Server is listening on port 3000..."}
+{"level":"info","message":"Server is listening on port 3000..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Server is listening on port 3000..."}
+{"level":"info","message":"Server is listening on port 3000..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Server is listening on port 3000..."}
+{"level":"info","message":"Server is listening on port 3000..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"_message":"Genres validation failed","errors":{"name":{"kind":"maxlength","message":"Path `name` (`aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa`) is longer than the maximum allowed length (50).","name":"ValidatorError","path":"name","properties":{"maxlength":50,"message":"Path `name` (`aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa`) is longer than the maximum allowed length (50).","path":"name","type":"maxlength","value":"aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa"},"value":"aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa"}},"level":"error","message":"Genres validation failed: name: Path `name` (`aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa`) is longer than the maximum allowed length (50). Genres validation failed: name: Path `name` (`aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa`) is longer than the maximum allowed length (50).","stack":"ValidationError: Genres validation failed: name: Path `name` (`aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa`) is longer than the maximum allowed length (50).\n    at model.Object.<anonymous>.Document.invalidate (/Users/hamidshehzad/JS_Mosh/JavaScriptVS/noodeVS/Vidly/node_modules/mongoose/lib/document.js:3318:32)\n    at /Users/hamidshehzad/JS_Mosh/JavaScriptVS/noodeVS/Vidly/node_modules/mongoose/lib/document.js:3079:17\n    at /Users/hamidshehzad/JS_Mosh/JavaScriptVS/noodeVS/Vidly/node_modules/mongoose/lib/schemaType.js:1388:9\n    at processTicksAndRejections (node:internal/process/task_queues:77:11)"}
+{"_message":"Genres validation failed","errors":{"name":{"kind":"maxlength","message":"Path `name` (`aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa`) is longer than the maximum allowed length (50).","name":"ValidatorError","path":"name","properties":{"maxlength":50,"message":"Path `name` (`aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa`) is longer than the maximum allowed length (50).","path":"name","type":"maxlength","value":"aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa"},"value":"aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa"}},"level":"error","message":"Genres validation failed: name: Path `name` (`aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa`) is longer than the maximum allowed length (50). Genres validation failed: name: Path `name` (`aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa`) is longer than the maximum allowed length (50).","stack":"ValidationError: Genres validation failed: name: Path `name` (`aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa`) is longer than the maximum allowed length (50).\n    at model.Object.<anonymous>.Document.invalidate (/Users/hamidshehzad/JS_Mosh/JavaScriptVS/noodeVS/Vidly/node_modules/mongoose/lib/document.js:3318:32)\n    at /Users/hamidshehzad/JS_Mosh/JavaScriptVS/noodeVS/Vidly/node_modules/mongoose/lib/document.js:3079:17\n    at /Users/hamidshehzad/JS_Mosh/JavaScriptVS/noodeVS/Vidly/node_modules/mongoose/lib/schemaType.js:1388:9\n    at processTicksAndRejections (node:internal/process/task_queues:77:11)"}
+{"level":"info","message":"Server is listening on port 3000..."}
+{"level":"info","message":"Server is listening on port 3000..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"_message":"Genres validation failed","errors":{"name":{"kind":"maxlength","message":"Path `name` (`aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa`) is longer than the maximum allowed length (50).","name":"ValidatorError","path":"name","properties":{"maxlength":50,"message":"Path `name` (`aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa`) is longer than the maximum allowed length (50).","path":"name","type":"maxlength","value":"aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa"},"value":"aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa"}},"level":"error","message":"Genres validation failed: name: Path `name` (`aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa`) is longer than the maximum allowed length (50). Genres validation failed: name: Path `name` (`aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa`) is longer than the maximum allowed length (50).","stack":"ValidationError: Genres validation failed: name: Path `name` (`aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa`) is longer than the maximum allowed length (50).\n    at model.Object.<anonymous>.Document.invalidate (/Users/hamidshehzad/JS_Mosh/JavaScriptVS/noodeVS/Vidly/node_modules/mongoose/lib/document.js:3318:32)\n    at /Users/hamidshehzad/JS_Mosh/JavaScriptVS/noodeVS/Vidly/node_modules/mongoose/lib/document.js:3079:17\n    at /Users/hamidshehzad/JS_Mosh/JavaScriptVS/noodeVS/Vidly/node_modules/mongoose/lib/schemaType.js:1388:9\n    at processTicksAndRejections (node:internal/process/task_queues:77:11)"}
+{"_message":"Genres validation failed","errors":{"name":{"kind":"maxlength","message":"Path `name` (`aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa`) is longer than the maximum allowed length (50).","name":"ValidatorError","path":"name","properties":{"maxlength":50,"message":"Path `name` (`aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa`) is longer than the maximum allowed length (50).","path":"name","type":"maxlength","value":"aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa"},"value":"aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa"}},"level":"error","message":"Genres validation failed: name: Path `name` (`aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa`) is longer than the maximum allowed length (50). Genres validation failed: name: Path `name` (`aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa`) is longer than the maximum allowed length (50).","stack":"ValidationError: Genres validation failed: name: Path `name` (`aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa`) is longer than the maximum allowed length (50).\n    at model.Object.<anonymous>.Document.invalidate (/Users/hamidshehzad/JS_Mosh/JavaScriptVS/noodeVS/Vidly/node_modules/mongoose/lib/document.js:3318:32)\n    at /Users/hamidshehzad/JS_Mosh/JavaScriptVS/noodeVS/Vidly/node_modules/mongoose/lib/document.js:3079:17\n    at /Users/hamidshehzad/JS_Mosh/JavaScriptVS/noodeVS/Vidly/node_modules/mongoose/lib/schemaType.js:1388:9\n    at processTicksAndRejections (node:internal/process/task_queues:77:11)"}
+{"level":"info","message":"Server is listening on port 3000..."}
+{"level":"info","message":"Server is listening on port 3000..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"_message":"Genres validation failed","errors":{"name":{"kind":"maxlength","message":"Path `name` (`aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa`) is longer than the maximum allowed length (50).","name":"ValidatorError","path":"name","properties":{"maxlength":50,"message":"Path `name` (`aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa`) is longer than the maximum allowed length (50).","path":"name","type":"maxlength","value":"aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa"},"value":"aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa"}},"level":"error","message":"Genres validation failed: name: Path `name` (`aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa`) is longer than the maximum allowed length (50). Genres validation failed: name: Path `name` (`aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa`) is longer than the maximum allowed length (50).","stack":"ValidationError: Genres validation failed: name: Path `name` (`aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa`) is longer than the maximum allowed length (50).\n    at model.Object.<anonymous>.Document.invalidate (/Users/hamidshehzad/JS_Mosh/JavaScriptVS/noodeVS/Vidly/node_modules/mongoose/lib/document.js:3318:32)\n    at /Users/hamidshehzad/JS_Mosh/JavaScriptVS/noodeVS/Vidly/node_modules/mongoose/lib/document.js:3079:17\n    at /Users/hamidshehzad/JS_Mosh/JavaScriptVS/noodeVS/Vidly/node_modules/mongoose/lib/schemaType.js:1388:9\n    at processTicksAndRejections (node:internal/process/task_queues:77:11)"}
+{"_message":"Genres validation failed","errors":{"name":{"kind":"maxlength","message":"Path `name` (`aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa`) is longer than the maximum allowed length (50).","name":"ValidatorError","path":"name","properties":{"maxlength":50,"message":"Path `name` (`aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa`) is longer than the maximum allowed length (50).","path":"name","type":"maxlength","value":"aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa"},"value":"aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa"}},"level":"error","message":"Genres validation failed: name: Path `name` (`aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa`) is longer than the maximum allowed length (50). Genres validation failed: name: Path `name` (`aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa`) is longer than the maximum allowed length (50).","stack":"ValidationError: Genres validation failed: name: Path `name` (`aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa`) is longer than the maximum allowed length (50).\n    at model.Object.<anonymous>.Document.invalidate (/Users/hamidshehzad/JS_Mosh/JavaScriptVS/noodeVS/Vidly/node_modules/mongoose/lib/document.js:3318:32)\n    at /Users/hamidshehzad/JS_Mosh/JavaScriptVS/noodeVS/Vidly/node_modules/mongoose/lib/document.js:3079:17\n    at /Users/hamidshehzad/JS_Mosh/JavaScriptVS/noodeVS/Vidly/node_modules/mongoose/lib/schemaType.js:1388:9\n    at processTicksAndRejections (node:internal/process/task_queues:77:11)"}
+{"level":"info","message":"Server is listening on port 3000..."}
+{"level":"info","message":"Server is listening on port 3000..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Server is listening on port 3000..."}
+{"level":"info","message":"Server is listening on port 3000..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"_message":"Genres validation failed","errors":{"name":{"kind":"maxlength","message":"Path `name` (`aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa`) is longer than the maximum allowed length (50).","name":"ValidatorError","path":"name","properties":{"maxlength":50,"message":"Path `name` (`aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa`) is longer than the maximum allowed length (50).","path":"name","type":"maxlength","value":"aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa"},"value":"aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa"}},"level":"error","message":"Genres validation failed: name: Path `name` (`aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa`) is longer than the maximum allowed length (50). Genres validation failed: name: Path `name` (`aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa`) is longer than the maximum allowed length (50).","stack":"ValidationError: Genres validation failed: name: Path `name` (`aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa`) is longer than the maximum allowed length (50).\n    at model.Object.<anonymous>.Document.invalidate (/Users/hamidshehzad/JS_Mosh/JavaScriptVS/noodeVS/Vidly/node_modules/mongoose/lib/document.js:3318:32)\n    at /Users/hamidshehzad/JS_Mosh/JavaScriptVS/noodeVS/Vidly/node_modules/mongoose/lib/document.js:3079:17\n    at /Users/hamidshehzad/JS_Mosh/JavaScriptVS/noodeVS/Vidly/node_modules/mongoose/lib/schemaType.js:1388:9\n    at processTicksAndRejections (node:internal/process/task_queues:77:11)"}
+{"_message":"Genres validation failed","errors":{"name":{"kind":"maxlength","message":"Path `name` (`aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa`) is longer than the maximum allowed length (50).","name":"ValidatorError","path":"name","properties":{"maxlength":50,"message":"Path `name` (`aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa`) is longer than the maximum allowed length (50).","path":"name","type":"maxlength","value":"aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa"},"value":"aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa"}},"level":"error","message":"Genres validation failed: name: Path `name` (`aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa`) is longer than the maximum allowed length (50). Genres validation failed: name: Path `name` (`aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa`) is longer than the maximum allowed length (50).","stack":"ValidationError: Genres validation failed: name: Path `name` (`aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa`) is longer than the maximum allowed length (50).\n    at model.Object.<anonymous>.Document.invalidate (/Users/hamidshehzad/JS_Mosh/JavaScriptVS/noodeVS/Vidly/node_modules/mongoose/lib/document.js:3318:32)\n    at /Users/hamidshehzad/JS_Mosh/JavaScriptVS/noodeVS/Vidly/node_modules/mongoose/lib/document.js:3079:17\n    at /Users/hamidshehzad/JS_Mosh/JavaScriptVS/noodeVS/Vidly/node_modules/mongoose/lib/schemaType.js:1388:9\n    at processTicksAndRejections (node:internal/process/task_queues:77:11)"}
+{"level":"info","message":"Server is listening on port 3000..."}
+{"level":"info","message":"Server is listening on port 3000..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Server is listening on port 3000..."}
+{"level":"info","message":"Server is listening on port 3000..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Server is listening on port 3000..."}
+{"level":"info","message":"Server is listening on port 3000..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Server is listening on port 3000..."}
+{"level":"info","message":"Server is listening on port 3000..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Server is listening on port 3000..."}
+{"level":"info","message":"Server is listening on port 3000..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Server is listening on port 3000..."}
+{"level":"info","message":"Server is listening on port 3000..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Server is listening on port 3000..."}
+{"level":"info","message":"Server is listening on port 3000..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Server is listening on port 3000..."}
+{"level":"info","message":"Server is listening on port 3000..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Server is listening on port 3000..."}
+{"level":"info","message":"Server is listening on port 3000..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Server is listening on port 3000..."}
+{"level":"info","message":"Server is listening on port 3000..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Server is listening on port 3000..."}
+{"level":"info","message":"Server is listening on port 3000..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Server is listening on port 3000..."}
+{"level":"info","message":"Server is listening on port 3000..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Server is listening on port 3000..."}
+{"level":"info","message":"Server is listening on port 3000..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Server is listening on port 3000..."}
+{"level":"info","message":"Server is listening on port 3000..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Server is listening on port 3000..."}
+{"level":"info","message":"Server is listening on port 3000..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Server is listening on port 3000..."}
+{"level":"info","message":"Server is listening on port 3000..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Server is listening on port 3000..."}
+{"level":"info","message":"Server is listening on port 3000..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Server is listening on port 3000..."}
+{"level":"info","message":"Server is listening on port 3000..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Server is listening on port 3000..."}
+{"level":"info","message":"Server is listening on port 3000..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Server is listening on port 3000..."}
+{"level":"info","message":"Server is listening on port 3000..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Server is listening on port 3000..."}
+{"level":"info","message":"Server is listening on port 3000..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Server is listening on port 3000..."}
+{"level":"info","message":"Server is listening on port 3000..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Server is listening on port 3000..."}
+{"level":"info","message":"Server is listening on port 3000..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Server is listening on port 3000..."}
+{"level":"info","message":"Server is listening on port 3000..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Server is listening on port 3000..."}
+{"level":"info","message":"Server is listening on port 3000..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Server is listening on port 3000..."}
+{"level":"info","message":"Server is listening on port 3000..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Server is listening on port 3000..."}
+{"level":"info","message":"Server is listening on port 3000..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Server is listening on port 3000..."}
+{"level":"info","message":"Server is listening on port 3000..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Server is listening on port 3000..."}
+{"level":"info","message":"Server is listening on port 3000..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Server is listening on port 3000..."}
+{"level":"info","message":"Server is listening on port 3000..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Server is listening on port 3000..."}
+{"level":"info","message":"Server is listening on port 3000..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Server is listening on port 3000..."}
+{"level":"info","message":"Server is listening on port 3000..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Server is listening on port 3000..."}
+{"level":"info","message":"Server is listening on port 3000..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Server is listening on port 3000..."}
+{"level":"info","message":"Server is listening on port 3000..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Server is listening on port 3000..."}
+{"level":"info","message":"Server is listening on port 3000..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Server is listening on port 3000..."}
+{"level":"info","message":"Server is listening on port 3000..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Server is listening on port 3000..."}
+{"level":"info","message":"Server is listening on port 3000..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Server is listening on port 3000..."}
+{"level":"info","message":"Server is listening on port 3000..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Server is listening on port 3000..."}
+{"level":"info","message":"Server is listening on port 3000..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Server is listening on port 3000..."}
+{"level":"info","message":"Server is listening on port 3000..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Server is listening on port 3000..."}
+{"level":"info","message":"Server is listening on port 3000..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Server is listening on port 3000..."}
+{"level":"info","message":"Server is listening on port 3000..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Server is listening on port 3000..."}
+{"level":"info","message":"Server is listening on port 3000..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Server is listening on port 3000..."}
+{"level":"info","message":"Server is listening on port 3000..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Server is listening on port 3000..."}
+{"level":"info","message":"Server is listening on port 3000..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Server is listening on port 3000..."}
+{"level":"info","message":"Server is listening on port 3000..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Server is listening on port 3000..."}
+{"level":"info","message":"Server is listening on port 3000..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Server is listening on port 3000..."}
+{"level":"info","message":"Server is listening on port 3000..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Server is listening on port 3000..."}
+{"level":"info","message":"Server is listening on port 3000..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Server is listening on port 3000..."}
+{"level":"info","message":"Server is listening on port 3000..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Server is listening on port 3000..."}
+{"level":"info","message":"Server is listening on port 3000..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Server is listening on port 3000..."}
+{"level":"info","message":"Server is listening on port 3000..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Server is listening on port 3000..."}
+{"level":"info","message":"Server is listening on port 3000..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Server is listening on port 3000..."}
+{"level":"info","message":"Server is listening on port 3000..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Server is listening on port 3000..."}
+{"level":"info","message":"Server is listening on port 3000..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Server is listening on port 3000..."}
+{"level":"info","message":"Server is listening on port 3000..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Server is listening on port 3000..."}
+{"level":"info","message":"Server is listening on port 3000..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Server is listening on port 3000..."}
+{"level":"info","message":"Server is listening on port 3000..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Server is listening on port 3000..."}
+{"level":"info","message":"Server is listening on port 3000..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Server is listening on port 3000..."}
+{"level":"info","message":"Server is listening on port 3000..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Server is listening on port 3000..."}
+{"level":"info","message":"Server is listening on port 3000..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Server is listening on port 3000..."}
+{"level":"info","message":"Server is listening on port 3000..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Server is listening on port 3000..."}
+{"level":"info","message":"Server is listening on port 3000..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Server is listening on port 3000..."}
+{"level":"info","message":"Server is listening on port 3000..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Server is listening on port 3000..."}
+{"level":"info","message":"Server is listening on port 3000..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Server is listening on port 3000..."}
+{"level":"info","message":"Server is listening on port 3000..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Server is listening on port 3000..."}
+{"level":"info","message":"Server is listening on port 3000..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Server is listening on port 3000..."}
+{"level":"info","message":"Server is listening on port 3000..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Server is listening on port 3000..."}
+{"level":"info","message":"Server is listening on port 3000..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Server is listening on port 3000..."}
+{"level":"info","message":"Server is listening on port 3000..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Server is listening on port 3000..."}
+{"level":"info","message":"Server is listening on port 3000..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Server is listening on port 3000..."}
+{"level":"info","message":"Server is listening on port 3000..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Server is listening on port 3000..."}
+{"level":"info","message":"Server is listening on port 3000..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Server is listening on port 3000..."}
+{"level":"info","message":"Server is listening on port 3000..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Server is listening on port 3000..."}
+{"level":"info","message":"Server is listening on port 3000..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Server is listening on port 3000..."}
+{"level":"info","message":"Server is listening on port 3000..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Server is listening on port 3000..."}
+{"level":"info","message":"Server is listening on port 3000..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Server is listening on port 3000..."}
+{"level":"info","message":"Server is listening on port 3000..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Server is listening on port 3000..."}
+{"level":"info","message":"Server is listening on port 3000..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Server is listening on port 3000..."}
+{"level":"info","message":"Server is listening on port 3000..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Server is listening on port 3000..."}
+{"level":"info","message":"Server is listening on port 3000..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Server is listening on port 3000..."}
+{"level":"info","message":"Server is listening on port 3000..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Server is listening on port 3000..."}
+{"level":"info","message":"Server is listening on port 3000..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Server is listening on port 3000..."}
+{"level":"info","message":"Server is listening on port 3000..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Server is listening on port 3000..."}
+{"level":"info","message":"Server is listening on port 3000..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Server is listening on port 3000..."}
+{"level":"info","message":"Server is listening on port 3000..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Server is listening on port 3000..."}
+{"level":"info","message":"Server is listening on port 3000..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Server is listening on port 3000..."}
+{"level":"info","message":"Server is listening on port 3000..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Server is listening on port 3000..."}
+{"level":"info","message":"Server is listening on port 3000..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Server is listening on port 3000..."}
+{"level":"info","message":"Server is listening on port 3000..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Server is listening on port 3000..."}
+{"level":"info","message":"Server is listening on port 3000..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Server is listening on port 3000..."}
+{"level":"info","message":"Server is listening on port 3000..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Server is listening on port 3000..."}
+{"level":"info","message":"Server is listening on port 3000..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Server is listening on port 3000..."}
+{"level":"info","message":"Server is listening on port 3000..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Server is listening on port 3000..."}
+{"level":"info","message":"Server is listening on port 3000..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Server is listening on port 3000..."}
+{"level":"info","message":"Server is listening on port 3000..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Server is listening on port 3000..."}
+{"level":"info","message":"Server is listening on port 3000..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Server is listening on port 3000..."}
+{"level":"info","message":"Server is listening on port 3000..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Server is listening on port 3000..."}
+{"level":"info","message":"Server is listening on port 3000..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Server is listening on port 3000..."}
+{"level":"info","message":"Server is listening on port 3000..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Server is listening on port 3000..."}
+{"level":"info","message":"Server is listening on port 3000..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Server is listening on port 3000..."}
+{"level":"info","message":"Server is listening on port 3000..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Server is listening on port 3000..."}
+{"level":"info","message":"Server is listening on port 3000..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Server is listening on port 3000..."}
+{"level":"info","message":"Server is listening on port 3000..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Server is listening on port 3000..."}
+{"level":"info","message":"Server is listening on port 3000..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Server is listening on port 3000..."}
+{"level":"info","message":"Server is listening on port 3000..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Server is listening on port 3000..."}
+{"level":"info","message":"Server is listening on port 3000..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Server is listening on port 3000..."}
+{"level":"info","message":"Server is listening on port 3000..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Server is listening on port 3000..."}
+{"level":"info","message":"Server is listening on port 3000..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Server is listening on port 3000..."}
+{"level":"info","message":"Server is listening on port 3000..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Server is listening on port 3000..."}
+{"level":"info","message":"Server is listening on port 3000..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Server is listening on port 3000..."}
+{"level":"info","message":"Server is listening on port 3000..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Server is listening on port 3000..."}
+{"level":"info","message":"Server is listening on port 3000..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Server is listening on port 3000..."}
+{"level":"info","message":"Server is listening on port 3000..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Server is listening on port 3000..."}
+{"level":"info","message":"Server is listening on port 3000..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Server is listening on port 3000..."}
+{"level":"info","message":"Server is listening on port 3000..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Server is listening on port 3000..."}
+{"level":"info","message":"Server is listening on port 3000..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Server is listening on port 3000..."}
+{"level":"info","message":"Server is listening on port 3000..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Server is listening on port 3000..."}
+{"level":"info","message":"Server is listening on port 3000..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Server is listening on port 3000..."}
+{"level":"info","message":"Server is listening on port 3000..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Server is listening on port 3000..."}
+{"level":"info","message":"Server is listening on port 3000..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Server is listening on port 3000..."}
+{"level":"info","message":"Server is listening on port 3000..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Server is listening on port 3000..."}
+{"level":"info","message":"Server is listening on port 3000..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Server is listening on port 3000..."}
+{"level":"info","message":"Server is listening on port 3000..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Server is listening on port 3000..."}
+{"level":"info","message":"Server is listening on port 3000..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Server is listening on port 3000..."}
+{"level":"info","message":"Server is listening on port 3000..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Server is listening on port 3000..."}
+{"level":"info","message":"Server is listening on port 3000..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Server is listening on port 3000..."}
+{"level":"info","message":"Server is listening on port 3000..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Server is listening on port 3000..."}
+{"level":"info","message":"Server is listening on port 3000..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Server is listening on port 3000..."}
+{"level":"info","message":"Server is listening on port 3000..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Server is listening on port 3000..."}
+{"level":"info","message":"Server is listening on port 3000..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Server is listening on port 3000..."}
+{"level":"info","message":"Server is listening on port 3000..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Server is listening on port 3000..."}
+{"level":"info","message":"Server is listening on port 3000..."}
+{"level":"info","message":"Server is listening on port 3000..."}
+{"level":"info","message":"Server is listening on port 3000..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Server is listening on port 3000..."}
+{"level":"info","message":"Server is listening on port 3000..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Server is listening on port 3000..."}
+{"level":"info","message":"Server is listening on port 3000..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Server is listening on port 3000..."}
+{"level":"info","message":"Server is listening on port 3000..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Server is listening on port 3000..."}
+{"level":"info","message":"Server is listening on port 3000..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Server is listening on port 3000..."}
+{"level":"info","message":"Server is listening on port 3000..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Server is listening on port 3000..."}
+{"level":"info","message":"Server is listening on port 3000..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Server is listening on port 3000..."}
+{"level":"info","message":"Server is listening on port 3000..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Server is listening on port 3000..."}
+{"level":"info","message":"Server is listening on port 3000..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Server is listening on port 3000..."}
+{"level":"info","message":"Server is listening on port 3000..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Server is listening on port 3000..."}
+{"level":"info","message":"Server is listening on port 3000..."}
+{"level":"info","message":"Server is listening on port 3000..."}
+{"level":"info","message":"Server is listening on port 3000..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Server is listening on port 3000..."}
+{"level":"info","message":"Server is listening on port 3000..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Server is listening on port 3000..."}
+{"level":"info","message":"Server is listening on port 3000..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Server is listening on port 3000..."}
+{"level":"info","message":"Server is listening on port 3000..."}
+{"level":"info","message":"Server is listening on port 3000..."}
+{"level":"info","message":"Server is listening on port 3000..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Server is listening on port 3000..."}
+{"level":"info","message":"Server is listening on port 3000..."}
+{"level":"info","message":"Server is listening on port 3000..."}
+{"level":"info","message":"Server is listening on port 3000..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Server is listening on port 3000..."}
+{"level":"info","message":"Server is listening on port 3000..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Server is listening on port 3000..."}
+{"level":"info","message":"Server is listening on port 3000..."}
+{"level":"info","message":"Server is listening on port 3000..."}
+{"level":"info","message":"Server is listening on port 3000..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Server is listening on port 3000..."}
+{"level":"info","message":"Server is listening on port 3000..."}
+{"level":"info","message":"Server is listening on port 3000..."}
+{"level":"info","message":"Server is listening on port 3000..."}
+{"level":"info","message":"Server is listening on port 3000..."}
+{"level":"info","message":"Server is listening on port 3000..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Server is listening on port 3000..."}
+{"level":"info","message":"Server is listening on port 3000..."}
+{"level":"info","message":"Server is listening on port 3000..."}
+{"level":"info","message":"Server is listening on port 3000..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Server is listening on port 3000..."}
+{"level":"info","message":"Server is listening on port 3000..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Server is listening on port 3000..."}
+{"level":"info","message":"Server is listening on port 3000..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Server is listening on port 3000..."}
+{"level":"info","message":"Server is listening on port 3000..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Server is listening on port 3000..."}
+{"level":"info","message":"Server is listening on port 3000..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Server is listening on port 3000..."}
+{"level":"info","message":"Server is listening on port 3000..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Server is listening on port 3000..."}
+{"level":"info","message":"Server is listening on port 3000..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Server is listening on port 3000..."}
+{"level":"info","message":"Server is listening on port 3000..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Server is listening on port 3000..."}
+{"level":"info","message":"Server is listening on port 3000..."}
+{"level":"info","message":"Server is listening on port 3000..."}
+{"level":"info","message":"Server is listening on port 3000..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Server is listening on port 3000..."}
+{"level":"info","message":"Server is listening on port 3000..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Server is listening on port 3000..."}
+{"level":"info","message":"Server is listening on port 3000..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Server is listening on port 3000..."}
+{"level":"info","message":"Server is listening on port 3000..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Server is listening on port 3000..."}
+{"level":"info","message":"Server is listening on port 3000..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Server is listening on port 3000..."}
+{"level":"info","message":"Server is listening on port 3000..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Server is listening on port 3000..."}
+{"level":"info","message":"Server is listening on port 3000..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Server is listening on port 3000..."}
+{"level":"info","message":"Server is listening on port 3000..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Server is listening on port 3000..."}
+{"level":"info","message":"Server is listening on port 3000..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Server is listening on port 3000..."}
+{"level":"info","message":"Server is listening on port 3000..."}
+{"level":"info","message":"Server is listening on port 3000..."}
+{"level":"info","message":"Server is listening on port 3000..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Server is listening on port 3000..."}
+{"level":"info","message":"Server is listening on port 3000..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Server is listening on port 3000..."}
+{"level":"info","message":"Server is listening on port 3000..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Server is listening on port 3000..."}
+{"level":"info","message":"Server is listening on port 3000..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Server is listening on port 3000..."}
+{"level":"info","message":"Server is listening on port 3000..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Server is listening on port 3000..."}
+{"level":"info","message":"Server is listening on port 3000..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Server is listening on port 3000..."}
+{"level":"info","message":"Server is listening on port 3000..."}
+{"level":"info","message":"Server is listening on port 3000..."}
+{"level":"info","message":"Server is listening on port 3000..."}
+{"level":"info","message":"Server is listening on port 3000..."}
+{"level":"info","message":"Server is listening on port 3000..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Server is listening on port 3000..."}
+{"level":"info","message":"Server is listening on port 3000..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Server is listening on port 3000..."}
+{"level":"info","message":"Server is listening on port 3000..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Server is listening on port 3000..."}
+{"level":"info","message":"Server is listening on port 3000..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Server is listening on port 3000..."}
+{"level":"info","message":"Server is listening on port 3000..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Server is listening on port 3000..."}
+{"level":"info","message":"Server is listening on port 3000..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Server is listening on port 3000..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Server is listening on port 3000..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Server is listening on port 3000..."}
+{"level":"info","message":"Server is listening on port 3000..."}
+{"level":"info","message":"Server is listening on port 3000..."}
+{"level":"info","message":"Server is listening on port 3000..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Server is listening on port 3000..."}
+{"level":"info","message":"Server is listening on port 3000..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Server is listening on port 3000..."}
+{"level":"info","message":"Server is listening on port 3000..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Server is listening on port 3000..."}
+{"level":"info","message":"Server is listening on port 3000..."}
+{"level":"info","message":"Server is listening on port 3000..."}
+{"level":"info","message":"Server is listening on port 3000..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Server is listening on port 3000..."}
+{"level":"info","message":"Server is listening on port 3000..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Server is listening on port 3000..."}
+{"level":"info","message":"Server is listening on port 3000..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Server is listening on port 3000..."}
+{"level":"info","message":"Server is listening on port 3000..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Server is listening on port 3000..."}
+{"level":"info","message":"Server is listening on port 3000..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Server is listening on port 3000..."}
+{"level":"info","message":"Server is listening on port 3000..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Server is listening on port 3000..."}
+{"level":"info","message":"Server is listening on port 3000..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Server is listening on port 3000..."}
+{"level":"info","message":"Server is listening on port 3000..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Server is listening on port 3000..."}
+{"level":"info","message":"Server is listening on port 3000..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Server is listening on port 3000..."}
+{"level":"info","message":"Server is listening on port 3000..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Server is listening on port 3000..."}
+{"level":"info","message":"Server is listening on port 3000..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Server is listening on port 3000..."}
+{"level":"info","message":"Server is listening on port 3000..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Server is listening on port 3000..."}
+{"level":"info","message":"Server is listening on port 3000..."}
+{"level":"info","message":"Server is listening on port 3000..."}
+{"level":"info","message":"Server is listening on port 3000..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Server is listening on port 3000..."}
+{"level":"info","message":"Server is listening on port 3000..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Server is listening on port 3000..."}
+{"level":"info","message":"Server is listening on port 3000..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Server is listening on port 3000..."}
+{"level":"info","message":"Server is listening on port 3000..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Server is listening on port 3000..."}
+{"level":"info","message":"Server is listening on port 3000..."}
+{"level":"info","message":"Server is listening on port 3000..."}
+{"level":"info","message":"Server is listening on port 3000..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Server is listening on port 3000..."}
+{"level":"info","message":"Server is listening on port 3000..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Server is listening on port 3000..."}
+{"level":"info","message":"Server is listening on port 3000..."}
+{"level":"info","message":"Server is listening on port 3000..."}
+{"level":"info","message":"Server is listening on port 3000..."}
+{"level":"info","message":"Server is listening on port 3000..."}
+{"level":"info","message":"Server is listening on port 3000..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Server is listening on port 3000..."}
+{"level":"info","message":"Server is listening on port 3000..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Server is listening on port 3000..."}
+{"level":"info","message":"Server is listening on port 3000..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Server is listening on port 3000..."}
+{"level":"info","message":"Server is listening on port 3000..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Server is listening on port 3000..."}
+{"level":"info","message":"Server is listening on port 3000..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Server is listening on port 3000..."}
+{"level":"info","message":"Server is listening on port 3000..."}
+{"level":"info","message":"Server is listening on port 3000..."}
+{"level":"info","message":"Server is listening on port 3000..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Server is listening on port 3000..."}
+{"level":"info","message":"Server is listening on port 3000..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Server is listening on port 3000..."}
+{"level":"info","message":"Server is listening on port 3000..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Server is listening on port 3000..."}
+{"level":"info","message":"Server is listening on port 3000..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Server is listening on port 3000..."}
+{"level":"info","message":"Server is listening on port 3000..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Server is listening on port 3000..."}
+{"level":"info","message":"Server is listening on port 3000..."}
+{"level":"info","message":"Server is listening on port 3000..."}
+{"level":"info","message":"Server is listening on port 3000..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Server is listening on port 3000..."}
+{"level":"info","message":"Server is listening on port 3000..."}
+{"level":"info","message":"Server is listening on port 3000..."}
+{"level":"info","message":"Server is listening on port 3000..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Server is listening on port 3000..."}
+{"level":"info","message":"Server is listening on port 3000..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Server is listening on port 3000..."}
+{"level":"info","message":"Server is listening on port 3000..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Server is listening on port 3000..."}
+{"level":"info","message":"Server is listening on port 3000..."}
+{"level":"info","message":"Server is listening on port 3000..."}
+{"level":"info","message":"Server is listening on port 3000..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Server is listening on port 3000..."}
+{"level":"info","message":"Server is listening on port 3000..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Server is listening on port 3000..."}
+{"level":"info","message":"Server is listening on port 3000..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Server is listening on port 3000..."}
+{"level":"info","message":"Server is listening on port 3000..."}
+{"level":"info","message":"Server is listening on port 3000..."}
+{"level":"info","message":"Server is listening on port 3000..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Server is listening on port 3000..."}
+{"level":"info","message":"Server is listening on port 3000..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Server is listening on port 3000..."}
+{"level":"info","message":"Server is listening on port 3000..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Server is listening on port 3000..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Server is listening on port 3000..."}
+{"level":"info","message":"Server is listening on port 3000..."}
+{"level":"info","message":"Server is listening on port 3000..."}
+{"level":"info","message":"Server is listening on port 3000..."}
+{"level":"info","message":"Server is listening on port 3000..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Server is listening on port 3000..."}
+{"level":"info","message":"Server is listening on port 3000..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Server is listening on port 3000..."}
+{"level":"info","message":"Server is listening on port 3000..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Server is listening on port 3000..."}
+{"level":"info","message":"Server is listening on port 3000..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Server is listening on port 3000..."}
+{"level":"info","message":"Server is listening on port 3000..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Server is listening on port 3000..."}
+{"level":"info","message":"Server is listening on port 3000..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Server is listening on port 3000..."}
+{"level":"info","message":"Server is listening on port 3000..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Server is listening on port 3000..."}
+{"level":"info","message":"Server is listening on port 3000..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Server is listening on port 3000..."}
+{"level":"info","message":"Server is listening on port 3000..."}
+{"level":"info","message":"Server is listening on port 3000..."}
+{"level":"info","message":"Server is listening on port 3000..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Server is listening on port 3000..."}
+{"level":"info","message":"Server is listening on port 3000..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Server is listening on port 3000..."}
+{"level":"info","message":"Server is listening on port 3000..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Server is listening on port 3000..."}
+{"level":"info","message":"Server is listening on port 3000..."}
+{"level":"info","message":"Server is listening on port 3000..."}
+{"level":"info","message":"Server is listening on port 3000..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Server is listening on port 3000..."}
+{"level":"info","message":"Server is listening on port 3000..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Server is listening on port 3000..."}
+{"level":"info","message":"Server is listening on port 3000..."}
+{"level":"info","message":"Server is listening on port 3000..."}
+{"level":"info","message":"Server is listening on port 3000..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Server is listening on port 3000..."}
+{"level":"info","message":"Server is listening on port 3000..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Server is listening on port 3000..."}
+{"level":"info","message":"Server is listening on port 3000..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Server is listening on port 3005..."}
+{"level":"info","message":"Server is listening on port 3005..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Server is listening on port 3005..."}
+{"level":"info","message":"Server is listening on port 3005..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Server is listening on port 3005..."}
+{"level":"info","message":"Server is listening on port 3005..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Server is listening on port 3005..."}
+{"level":"info","message":"Server is listening on port 3005..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Server is listening on port 3005..."}
+{"level":"info","message":"Server is listening on port 3005..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Server is listening on port 3005..."}
+{"level":"info","message":"Server is listening on port 3005..."}
+{"level":"info","message":"Server is listening on port 3005..."}
+{"level":"info","message":"Server is listening on port 3005..."}
+{"level":"info","message":"Server is listening on port 3005..."}
+{"level":"info","message":"Server is listening on port 3005..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Server is listening on port 3005..."}
+{"level":"info","message":"Server is listening on port 3005..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Server is listening on port 3005..."}
+{"level":"info","message":"Server is listening on port 3005..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Server is listening on port 3005..."}
+{"level":"info","message":"Server is listening on port 3005..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Server is listening on port 3005..."}
+{"level":"info","message":"Server is listening on port 3005..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Server is listening on port 3005..."}
+{"level":"info","message":"Server is listening on port 3005..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Server is listening on port 3005..."}
+{"level":"info","message":"Server is listening on port 3005..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Server is listening on port 3005..."}
+{"level":"info","message":"Server is listening on port 3005..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Server is listening on port 3005..."}
+{"level":"info","message":"Server is listening on port 3005..."}
+{"level":"info","message":"Server is listening on port 3005..."}
+{"level":"info","message":"Server is listening on port 3005..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Server is listening on port 3005..."}
+{"level":"info","message":"Server is listening on port 3005..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Server is listening on port 3005..."}
+{"level":"info","message":"Server is listening on port 3005..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Server is listening on port 3005..."}
+{"level":"info","message":"Server is listening on port 3005..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Server is listening on port 3005..."}
+{"level":"info","message":"Server is listening on port 3005..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Server is listening on port 3005..."}
+{"level":"info","message":"Server is listening on port 3005..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Server is listening on port 3005..."}
+{"level":"info","message":"Server is listening on port 3005..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Server is listening on port 3000..."}
+{"level":"info","message":"Server is listening on port 3000..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Server is listening on port 3000..."}
+{"level":"info","message":"Server is listening on port 3000..."}
+{"level":"info","message":"Server is listening on port 3000..."}
+{"level":"info","message":"Server is listening on port 3000..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Server is listening on port 3000..."}
+{"level":"info","message":"Server is listening on port 3000..."}
+{"level":"info","message":"Server is listening on port 3000..."}
+{"level":"info","message":"Server is listening on port 3000..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Server is listening on port 3000..."}
+{"level":"info","message":"Server is listening on port 3000..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Server is listening on port 3000..."}
+{"level":"info","message":"Server is listening on port 3000..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Server is listening on port 3000..."}
+{"level":"info","message":"Server is listening on port 3000..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Server is listening on port 3000..."}
+{"level":"info","message":"Server is listening on port 3000..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Server is listening on port 3000..."}
+{"level":"info","message":"Server is listening on port 3000..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Server is listening on port 3000..."}
+{"level":"info","message":"Server is listening on port 3000..."}
+{"level":"info","message":"Server is listening on port 3000..."}
+{"level":"info","message":"Server is listening on port 3000..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Server is listening on port 3000..."}
+{"level":"info","message":"Server is listening on port 3000..."}
+{"level":"info","message":"Server is listening on port 3000..."}
+{"level":"info","message":"Server is listening on port 3000..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Server is listening on port 3000..."}
+{"level":"info","message":"Server is listening on port 3000..."}
+{"level":"info","message":"Server is listening on port 3000..."}
+{"level":"info","message":"Server is listening on port 3000..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Server is listening on port 3000..."}
+{"level":"info","message":"Server is listening on port 3000..."}
+{"level":"info","message":"Server is listening on port 3000..."}
+{"level":"info","message":"Server is listening on port 3000..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Server is listening on port 8000..."}
+{"level":"info","message":"Server is listening on port 8000..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Server is listening on port 8000..."}
+{"level":"info","message":"Server is listening on port 8000..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Server is listening on port 8000..."}
+{"level":"info","message":"Server is listening on port 8000..."}
+{"level":"info","message":"Server is listening on port 8000..."}
+{"level":"info","message":"Server is listening on port 8000..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly..."}
+{"level":"info","message":"Server is listening on port 8000..."}
+{"level":"info","message":"Server is listening on port 8000..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Server is listening on port 8000..."}
+{"level":"info","message":"Server is listening on port 8000..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Server is listening on port 8000..."}
+{"level":"info","message":"Server is listening on port 8000..."}
+{"level":"info","message":"Server is listening on port 8000..."}
+{"level":"info","message":"Server is listening on port 8000..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Server is listening on port 8000..."}
+{"level":"info","message":"Server is listening on port 8000..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Server is listening on port 8000..."}
+{"level":"info","message":"Server is listening on port 8000..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Server is listening on port 8000..."}
+{"level":"info","message":"Server is listening on port 8000..."}
+{"level":"info","message":"Server is listening on port 8000..."}
+{"level":"info","message":"Server is listening on port 8000..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Server is listening on port 8000..."}
+{"level":"info","message":"Server is listening on port 8000..."}
+{"level":"info","message":"Server is listening on port 8000..."}
+{"level":"info","message":"Server is listening on port 8000..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Server is listening on port 8000..."}
+{"level":"info","message":"Server is listening on port 8000..."}
+{"level":"info","message":"Server is listening on port 8000..."}
+{"level":"info","message":"Server is listening on port 8000..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Server is listening on port 8000..."}
+{"level":"info","message":"Server is listening on port 8000..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Server is listening on port 8000..."}
+{"level":"info","message":"Server is listening on port 8000..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Server is listening on port 8000..."}
+{"level":"info","message":"Server is listening on port 8000..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Server is listening on port 8000..."}
+{"level":"info","message":"Server is listening on port 8000..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Server is listening on port 8000..."}
+{"level":"info","message":"Server is listening on port 8000..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Server is listening on port 8000..."}
+{"level":"info","message":"Server is listening on port 8000..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Server is listening on port 8000..."}
+{"level":"info","message":"Server is listening on port 8000..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Server is listening on port 8000..."}
+{"level":"info","message":"Server is listening on port 8000..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Server is listening on port 8000..."}
+{"level":"info","message":"Server is listening on port 8000..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Server is listening on port 8000..."}
+{"level":"info","message":"Server is listening on port 8000..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Server is listening on port 8000..."}
+{"level":"info","message":"Server is listening on port 8000..."}
+{"level":"info","message":"Server is listening on port 8000..."}
+{"level":"info","message":"Server is listening on port 8000..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Server is listening on port 8000..."}
+{"level":"info","message":"Server is listening on port 8000..."}
+{"level":"info","message":"Server is listening on port 8000..."}
+{"level":"info","message":"Server is listening on port 8000..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Server is listening on port 8000..."}
+{"level":"info","message":"Server is listening on port 8000..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Server is listening on port 8000..."}
+{"level":"info","message":"Server is listening on port 8000..."}
+{"level":"info","message":"Server is listening on port 8000..."}
+{"level":"info","message":"Server is listening on port 8000..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Server is listening on port 8000..."}
+{"level":"info","message":"Server is listening on port 8000..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Server is listening on port 8000..."}
+{"level":"info","message":"Server is listening on port 8000..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Server is listening on port 8000..."}
+{"level":"info","message":"Server is listening on port 8000..."}
+{"level":"info","message":"Server is listening on port 8000..."}
+{"level":"info","message":"Server is listening on port 8000..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Server is listening on port 8000..."}
+{"level":"info","message":"Server is listening on port 8000..."}
+{"level":"info","message":"Server is listening on port 8000..."}
+{"level":"info","message":"Server is listening on port 8000..."}
+{"level":"info","message":"Server is listening on port 8000..."}
+{"level":"info","message":"Server is listening on port 8000..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Server is listening on port 8000..."}
+{"level":"info","message":"Server is listening on port 8000..."}
+{"level":"info","message":"Server is listening on port 8000..."}
+{"level":"info","message":"Server is listening on port 8000..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Server is listening on port 8000..."}
+{"level":"info","message":"Server is listening on port 8000..."}
+{"level":"info","message":"Server is listening on port 8000..."}
+{"level":"info","message":"Server is listening on port 8000..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Server is listening on port 8000..."}
+{"level":"info","message":"Server is listening on port 8000..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Server is listening on port 8000..."}
+{"level":"info","message":"Server is listening on port 8000..."}
+{"level":"info","message":"Server is listening on port 8000..."}
+{"level":"info","message":"Server is listening on port 8000..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Server is listening on port 8000..."}
+{"level":"info","message":"Server is listening on port 8000..."}
+{"level":"info","message":"Server is listening on port 8000..."}
+{"level":"info","message":"Server is listening on port 8000..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Server is listening on port 8000..."}
+{"level":"info","message":"Server is listening on port 8000..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Server is listening on port 8000..."}
+{"level":"info","message":"Server is listening on port 8000..."}
+{"level":"info","message":"Server is listening on port 8000..."}
+{"level":"info","message":"Server is listening on port 8000..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Server is listening on port 8000..."}
+{"level":"info","message":"Server is listening on port 8000..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Server is listening on port 8000..."}
+{"level":"info","message":"Server is listening on port 8000..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Server is listening on port 8000..."}
+{"level":"info","message":"Server is listening on port 8000..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Server is listening on port 8000..."}
+{"level":"info","message":"Server is listening on port 8000..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Server is listening on port 8000..."}
+{"level":"info","message":"Server is listening on port 8000..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Server is listening on port 8000..."}
+{"level":"info","message":"Server is listening on port 8000..."}
+{"level":"info","message":"Server is listening on port 8000..."}
+{"level":"info","message":"Server is listening on port 8000..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Server is listening on port 8000..."}
+{"level":"info","message":"Server is listening on port 8000..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Server is listening on port 8000..."}
+{"level":"info","message":"Server is listening on port 8000..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Server is listening on port 8000..."}
+{"level":"info","message":"Server is listening on port 8000..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Server is listening on port 8000..."}
+{"level":"info","message":"Server is listening on port 8000..."}
+{"level":"info","message":"Server is listening on port 8000..."}
+{"level":"info","message":"Server is listening on port 8000..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Server is listening on port 8000..."}
+{"level":"info","message":"Server is listening on port 8000..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Server is listening on port 8000..."}
+{"level":"info","message":"Server is listening on port 8000..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Server is listening on port 8000..."}
+{"level":"info","message":"Server is listening on port 8000..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Server is listening on port 8000..."}
+{"level":"info","message":"Server is listening on port 8000..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Server is listening on port 8000..."}
+{"level":"info","message":"Server is listening on port 8000..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Server is listening on port 8000..."}
+{"level":"info","message":"Server is listening on port 8000..."}
+{"level":"info","message":"Server is listening on port 8000..."}
+{"level":"info","message":"Server is listening on port 8000..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Server is listening on port 8000..."}
+{"level":"info","message":"Server is listening on port 8000..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Server is listening on port 8000..."}
+{"level":"info","message":"Server is listening on port 8000..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Server is listening on port 8000..."}
+{"level":"info","message":"Server is listening on port 8000..."}
+{"level":"info","message":"Server is listening on port 8000..."}
+{"level":"info","message":"Server is listening on port 8000..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Server is listening on port 8000..."}
+{"level":"info","message":"Server is listening on port 8000..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Server is listening on port 8000..."}
+{"level":"info","message":"Server is listening on port 8000..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Server is listening on port 8000..."}
+{"level":"info","message":"Server is listening on port 8000..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Server is listening on port 8000..."}
+{"level":"info","message":"Server is listening on port 8000..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Server is listening on port 8000..."}
+{"level":"info","message":"Server is listening on port 8000..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Server is listening on port 8000..."}
+{"level":"info","message":"Server is listening on port 8000..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Server is listening on port 8000..."}
+{"level":"info","message":"Server is listening on port 8000..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Server is listening on port 8000..."}
+{"level":"info","message":"Server is listening on port 8000..."}
+{"level":"info","message":"Server is listening on port 8000..."}
+{"level":"info","message":"Server is listening on port 8000..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Server is listening on port 8000..."}
+{"level":"info","message":"Server is listening on port 8000..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Server is listening on port 8000..."}
+{"level":"info","message":"Server is listening on port 8000..."}
+{"level":"info","message":"Server is listening on port 8000..."}
+{"level":"info","message":"Server is listening on port 8000..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Server is listening on port 8000..."}
+{"level":"info","message":"Server is listening on port 8000..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Server is listening on port 8000..."}
+{"level":"info","message":"Server is listening on port 8000..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Server is listening on port 8000..."}
+{"level":"info","message":"Server is listening on port 8000..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Server is listening on port 8000..."}
+{"level":"info","message":"Server is listening on port 8000..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Server is listening on port 8000..."}
+{"level":"info","message":"Server is listening on port 8000..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Server is listening on port 8000..."}
+{"level":"info","message":"Server is listening on port 8000..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Server is listening on port 8000..."}
+{"level":"info","message":"Server is listening on port 8000..."}
+{"level":"info","message":"Server is listening on port 8000..."}
+{"level":"info","message":"Server is listening on port 8000..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Server is listening on port 8000..."}
+{"level":"info","message":"Server is listening on port 8000..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Server is listening on port 8000..."}
+{"level":"info","message":"Server is listening on port 8000..."}
+{"level":"info","message":"Server is listening on port 8000..."}
+{"level":"info","message":"Server is listening on port 8000..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Server is listening on port 8000..."}
+{"level":"info","message":"Server is listening on port 8000..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Server is listening on port 8000..."}
+{"level":"info","message":"Server is listening on port 8000..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Server is listening on port 8000..."}
+{"level":"info","message":"Server is listening on port 8000..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Server is listening on port 8000..."}
+{"level":"info","message":"Server is listening on port 8000..."}
+{"level":"info","message":"Server is listening on port 8000..."}
+{"level":"info","message":"Server is listening on port 8000..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Server is listening on port 8000..."}
+{"level":"info","message":"Server is listening on port 8000..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Server is listening on port 8000..."}
+{"level":"info","message":"Server is listening on port 8000..."}
+{"level":"info","message":"Server is listening on port 8000..."}
+{"level":"info","message":"Server is listening on port 8000..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Server is listening on port 8000..."}
+{"level":"info","message":"Server is listening on port 8000..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Server is listening on port 8000..."}
+{"level":"info","message":"Server is listening on port 8000..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Server is listening on port 8000..."}
+{"level":"info","message":"Server is listening on port 8000..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Server is listening on port 8000..."}
+{"level":"info","message":"Server is listening on port 8000..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Server is listening on port 8000..."}
+{"level":"info","message":"Server is listening on port 8000..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Server is listening on port 8000..."}
+{"level":"info","message":"Server is listening on port 8000..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Server is listening on port 8000..."}
+{"level":"info","message":"Server is listening on port 8000..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Server is listening on port 8000..."}
+{"level":"info","message":"Server is listening on port 8000..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Server is listening on port 8000..."}
+{"level":"info","message":"Server is listening on port 8000..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Server is listening on port 8000..."}
+{"level":"info","message":"Server is listening on port 8000..."}
+{"level":"info","message":"Server is listening on port 8000..."}
+{"level":"info","message":"Server is listening on port 8000..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Server is listening on port 8000..."}
+{"level":"info","message":"Server is listening on port 8000..."}
+{"level":"info","message":"Server is listening on port 8000..."}
+{"level":"info","message":"Server is listening on port 8000..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}
+{"level":"info","message":"Connected to mongodb://localhost/Vidly_tests..."}

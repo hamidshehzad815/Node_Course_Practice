@@ -1,3 +1,4 @@
+const validateObjectId = require("../middleware/validateObjectId");
 const express = require("express");
 const router = express.Router();
 const mongoose = require("mongoose");
@@ -21,7 +22,7 @@ router.post(
   auth,
   asyncHandler(async (req, res) => {
     const { error } = validateGenres(req.body);
-    if (error) res.status(400).send(error.details[0].message);
+    if (error) return res.status(400).send(error.details[0].message);
 
     let genre = new Genre({
       name: req.body.name,
@@ -56,7 +57,7 @@ router.delete("/:id", [auth, admin], async (req, res) => {
   res.send(genre);
 });
 
-router.get("/:id", async (req, res) => {
+router.get("/:id", validateObjectId, async (req, res) => {
   const genre = await Genre.findById(req.params.id);
   if (!genre)
     return res.status(404).send("genre with the given id is not found");
@@ -66,7 +67,7 @@ router.get("/:id", async (req, res) => {
 
 function validateGenres(genres) {
   const schema = Joi.object({
-    name: Joi.string().min(3).required(),
+    name: Joi.string().min(5).max(50).required(),
   });
   const error = schema.validate(genres);
   return error;

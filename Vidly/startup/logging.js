@@ -2,25 +2,29 @@ const winston = require("winston");
 require("winston-mongodb");
 
 module.exports = function () {
-  winston.ExceptionHandler(
+  // Handle uncaught exceptions
+  winston.exceptions.handle(
     new winston.transports.Console({
-      colorize: true,
-      prettyPrint: true,
+      format: winston.format.combine(
+        winston.format.colorize(),
+        winston.format.prettyPrint()
+      ),
     }),
-    new winston.transports.File({
-      filename: "uncaughtExceptions.log",
-    })
+    new winston.transports.File({ filename: "uncaughtExceptions.log" })
   );
 
-  process.on("uncaughtException", (ex) => {
+  // Handle unhandled promise rejections
+  process.on("unhandledRejection", (ex) => {
     throw ex;
   });
 
-  winston.add(winston.transports.File, {
-    filename: "logfile.log",
-  });
-  winston.add(winston.transports.MongoDB, {
-    db: "mongodb://localhost/Vidly",
-    level: "info",
-  });
+  // Add transports
+  winston.add(new winston.transports.File({ filename: "logfile.log" }));
+  winston.add(
+    new winston.transports.MongoDB({
+      db: "mongodb://localhost/Vidly",
+      level: "info",
+      options: { useUnifiedTopology: true },
+    })
+  );
 };
